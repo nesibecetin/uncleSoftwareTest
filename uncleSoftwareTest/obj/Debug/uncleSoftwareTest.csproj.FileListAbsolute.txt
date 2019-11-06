@@ -1,0 +1,33 @@
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csprojAssemblyReference.cache
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.dll
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.pdb
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.dll
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.dll
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.xml
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.xml
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CopyComplete
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.dll
+C:\Users\salih\source\repos\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.pdb
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.dll
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.pdb
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.dll
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.dll
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.xml
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.xml
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csprojAssemblyReference.cache
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CoreCompileInputs.cache
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CopyComplete
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.dll
+C:\Users\emin\Desktop\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.pdb
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.dll
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\uncleSoftwareTest.pdb
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.dll
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.dll
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\nunit.framework.xml
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\bin\Debug\WebDriver.xml
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.csproj.CopyComplete
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.dll
+C:\Users\Usre\Desktop\2018-2019 Guz\Yazılım Sınama\Yazilim_Sinama_Ornekler\uncleSoftwareTest\uncleSoftwareTest\obj\Debug\uncleSoftwareTest.pdb
